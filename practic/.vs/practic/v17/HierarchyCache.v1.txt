@@ -1,0 +1,258 @@
+﻿++Решение "practic" ‎(проекты: 1 из 1)
+i:{00000000-0000-0000-0000-000000000000}:practic.sln
+++practic
+i:{00000000-0000-0000-0000-000000000000}:practic
+++Properties
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\properties\
+++Ссылки
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:
+++App.config
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\app.config
+++avt dob.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\avt dob.cs
+++avt dob.Designer.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\avt dob.designer.cs
+++avt dob.resx
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\avt dob.resx
+++Avtonaprodazy.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\avtonaprodazy.cs
+++Avtonaprodazy.Designer.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\avtonaprodazy.designer.cs
+++Avtonaprodazy.resx
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\avtonaprodazy.resx
+++Avtonaremont.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\avtonaremont.cs
+++buhgalteria.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\buhgalteria.cs
+++Cvet.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\cvet.cs
+++Dlinakuzova.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\dlinakuzova.cs
+++Dolznost.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\dolznost.cs
+++Form1.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\form1.cs
+++Form1.Designer.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\form1.designer.cs
+++Form1.resx
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\form1.resx
+++Klienti.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\klienti.cs
+++Kuzov.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\kuzov.cs
+++Nazvanieavto.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\nazvanieavto.cs
+++Prodazi.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\prodazi.cs
+++Program.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\program.cs
+++Razmerkoles.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\razmerkoles.cs
+++Remont.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\remont.cs
+++Shirina.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\shirina.cs
+++Sotrudniki.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\sotrudniki.cs
+++Zapchasti.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\zapchasti.cs
+++День 91.mdb
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\день 91.mdb
+++День_91DataSet.xsd
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\день_91dataset.xsd
+++День_91DataSet.Designer.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\день_91dataset.designer.cs
+++День_91DataSet.xsc
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\день_91dataset.xsc
+++День_91DataSet.xss
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\день_91dataset.xss
+++AssemblyInfo.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\properties\assemblyinfo.cs
+++Resources.resx
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\properties\resources.resx
+++Settings.settings
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\properties\settings.settings
+++Microsoft.CSharp
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:
+++System
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:
+++System.Core
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:
+++System.Data
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:
+++System.Data.DataSetExtensions
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:
+++System.Deployment
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:
+++System.Drawing
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:
+++System.Net.Http
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:
+++System.Windows.Forms
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:
+++System.Xml
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:
+++System.Xml.Linq
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:
+++Avtonaremont.Designer.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\avtonaremont.designer.cs
+++Avtonaremont.resx
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\avtonaremont.resx
+++buhgalteria.Designer.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\buhgalteria.designer.cs
+++buhgalteria.resx
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\buhgalteria.resx
+++Cvet.Designer.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\cvet.designer.cs
+++Cvet.resx
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\cvet.resx
+++Dlinakuzova.Designer.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\dlinakuzova.designer.cs
+++Dlinakuzova.resx
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\dlinakuzova.resx
+++Dolznost.Designer.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\dolznost.designer.cs
+++Dolznost.resx
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\dolznost.resx
+++Klienti.Designer.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\klienti.designer.cs
+++Klienti.resx
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\klienti.resx
+++Kuzov.Designer.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\kuzov.designer.cs
+++Kuzov.resx
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\kuzov.resx
+++Nazvanieavto.Designer.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\nazvanieavto.designer.cs
+++Nazvanieavto.resx
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\nazvanieavto.resx
+++Prodazi.Designer.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\prodazi.designer.cs
+++Prodazi.resx
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\prodazi.resx
+++Razmerkoles.Designer.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\razmerkoles.designer.cs
+++Razmerkoles.resx
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\razmerkoles.resx
+++Remont.Designer.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\remont.designer.cs
+++Remont.resx
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\remont.resx
+++Shirina.Designer.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\shirina.designer.cs
+++Shirina.resx
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\shirina.resx
+++Sotrudniki.Designer.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\sotrudniki.designer.cs
+++Sotrudniki.resx
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\sotrudniki.resx
+++Zapchasti.Designer.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\zapchasti.designer.cs
+++Zapchasti.resx
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\zapchasti.resx
+++Resources.Designer.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\properties\resources.designer.cs
+++Settings.Designer.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\properties\settings.designer.cs
+++AvtnaRem.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\avtnarem.cs
+++AvtnaRem.Designer.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\avtnarem.designer.cs
+++AvtnaRem.resx
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\avtnarem.resx
+++buh dob.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\buh dob.cs
+++buh dob.Designer.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\buh dob.designer.cs
+++buh dob.resx
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\buh dob.resx
+++Poisk buh.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\poisk buh.cs
+++Poisk buh.Designer.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\poisk buh.designer.cs
+++Poisk buh.resx
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\poisk buh.resx
+++Dlinadob.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\dlinadob.cs
+++Dlinadob.Designer.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\dlinadob.designer.cs
+++Dlinadob.resx
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\dlinadob.resx
+++dolznostdob.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\dolznostdob.cs
+++dolznostdob.Designer.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\dolznostdob.designer.cs
+++dolznostdob.resx
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\dolznostdob.resx
+++prodazipoisk.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\prodazipoisk.cs
+++prodazipoisk.Designer.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\prodazipoisk.designer.cs
+++prodazipoisk.resx
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\prodazipoisk.resx
+++prod dob.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\prod dob.cs
+++prod dob.Designer.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\prod dob.designer.cs
+++prod dob.resx
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\prod dob.resx
+++nazvaniedob.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\nazvaniedob.cs
+++nazvaniedob.Designer.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\nazvaniedob.designer.cs
+++nazvaniedob.resx
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\nazvaniedob.resx
+++kuzovdob.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\kuzovdob.cs
+++kuzovdob.Designer.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\kuzovdob.designer.cs
+++kuzovdob.resx
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\kuzovdob.resx
+++klienti dob.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\klienti dob.cs
+++klienti dob.Designer.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\klienti dob.designer.cs
+++klienti dob.resx
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\klienti dob.resx
+++zapchasti dob.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\zapchasti dob.cs
+++zapchasti dob.Designer.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\zapchasti dob.designer.cs
+++zapchasti dob.resx
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\zapchasti dob.resx
+++razmerkoles dob.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\razmerkoles dob.cs
+++razmerkoles dob.Designer.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\razmerkoles dob.designer.cs
+++razmerkoles dob.resx
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\razmerkoles dob.resx
+++remont poisk.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\remont poisk.cs
+++remont poisk.Designer.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\remont poisk.designer.cs
+++remont poisk.resx
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\remont poisk.resx
+++remont dob.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\remont dob.cs
+++remont dob.Designer.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\remont dob.designer.cs
+++remont dob.resx
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\remont dob.resx
+++sotrudniki dob.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\sotrudniki dob.cs
+++sotrudniki dob.Designer.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\sotrudniki dob.designer.cs
+++sotrudniki dob.resx
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\sotrudniki dob.resx
+++cvet dab.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\cvet dab.cs
+++cvet dab.Designer.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\cvet dab.designer.cs
+++cvet dab.resx
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\cvet dab.resx
+++shirina dob.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\shirina dob.cs
+++shirina dob.Designer.cs
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\shirina dob.designer.cs
+++shirina dob.resx
+i:{3175e96c-13ea-45c8-a9b3-b7f666663160}:c:\users\acer\onedrive\рабочий стол\practic\practic\shirina dob.resx
